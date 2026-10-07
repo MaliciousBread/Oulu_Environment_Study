@@ -1,0 +1,15 @@
+# Large datasets and archives
+knowledge_base.zip
+Projet_Data/
+Demo/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if you create them later)
+.venv/
+venv/
+env/
+multi_agents/.env
+
